@@ -1,0 +1,1 @@
+PIL.Image.open(io.BytesIO(request.urlopen(https://www.dropbox.com/sh/prp82fw8f9sq263/AABRoeQP9FJD0wZcIyHhdn8Ja?dl=0).read())).save(image_file_path)
